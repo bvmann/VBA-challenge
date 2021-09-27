@@ -1,4 +1,4 @@
-# VBA-challenge
+# analysis
 Stock market analysis 
 screenshot 2014 - 2016 shows each year with both minimum and bonus requirements ran. 
 
